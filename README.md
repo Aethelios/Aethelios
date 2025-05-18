@@ -1,6 +1,5 @@
 # Aethelios 🚀
 
-### TL;DR:
 * 🧠 Software Engineering Rockstar (self-proclaimed, but trust me on this one).
 * 🤖 AI Aficionado with a GPU-sized hole in my heart (and setup 😭).
 * ☁️ Cloud Whisperer, ML Enthusiast, C++ Connoisseur.
