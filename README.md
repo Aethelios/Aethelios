@@ -1,3 +1,3 @@
 # Aethelios
 
-Software engineer specialized in AI and Cloud. This repository is my personal playground for innovation, experimentation, and continuous learning through both success and failure.
+This repository is my personal innovation lab for AI, data science, and software engineering — a place to experiment with crazy ideas, build ambitious prototypes, and extract lessons from both breakthroughs and failures.
