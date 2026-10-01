@@ -1,6 +1,6 @@
 # Mohamed Amine Ghorbali
 
-AI engineer. Most of my work is RAG and local LLM inference: systems that run on self-hosted models because the data can't leave the building. I also have a background in computer vision and LLM fine-tuning.
+AI engineer. Most of my work is RAG and local LLM inference: systems that run on self-hosted models because the data can't leave the building. I also have a background in software engineering, computer vision and LLM fine-tuning.
 
 Software engineering degree (data science track) from ESPRIT, Tunisia.
 
