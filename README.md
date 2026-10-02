@@ -1,12 +1,10 @@
-# Mohamed Amine Ghorbali
+# Hi, I'm Mohamed Amine Ghorbali
 
-AI engineer. Most of my work is RAG and local LLM inference: systems that run on self-hosted models because the data can't leave the building. I also have a background in software engineering, computer vision and LLM fine-tuning.
-
-Software engineering degree (data science track) from ESPRIT, Tunisia.
-
-## Stack
-
-Python, PyTorch, Hugging Face, LangChain, LlamaIndex, ChromaDB, FAISS, FastAPI, Celery, Django, Docker, AWS. Also JavaScript/React and PHP/Laravel.
+* 💻 Software Engineer & AI Engineer
+* 🤖 Building AI/ML projects
+* 🐍 Mostly working with Python
+* 🧠 Currently learning Deep Learning & Representation Learning
+* 🚀 I like building things and seeing where they go
 
 ## Contact
 
